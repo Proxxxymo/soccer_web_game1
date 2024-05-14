@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #C0C0C0; /* Легкий серый цвет для фона */
+}
+
+canvas {
+    background-color: green; /* Зеленый цвет для всего игрового поля */
+    border: 1px solid black;
+}
